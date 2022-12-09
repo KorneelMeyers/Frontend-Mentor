@@ -4,4 +4,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![img_1.png](assets/images/img_1.png)
+![img.png](img.png)
